@@ -34,5 +34,5 @@ p <- p + ggtitle("Motor vehicle sources: Baltimore/LA") ## This works
 p
 dev.off()
 
-# Plot shows greater change in motor vehicle emissions in LA
+# Plot shows greater change in motor vehicle emissions in LA than Baltimore
 

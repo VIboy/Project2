@@ -19,5 +19,5 @@ p <- p + ggtitle("Baltimore City: 4 types of sources") ## This works
 p
 dev.off()
 
-## Shows that "type" = "POINT" source emission has increased.
+## Shows that "type" = "POINT" source emission has increased from 1999 to 2008.
 # Other 3 types have all decreased.
